@@ -4,8 +4,7 @@
             <div class="footer-section about col-md-4 col-12">
                 <h3 class="logo-text">Мой блог</h3>
                 <p>
-                    Мой блог - это блог сделаннный с целью обучения аудитории на платформе
-                    YouTube и заработка доволнительной кармы)).
+                    Мой блог - это блог сделаннный с целью обучения.
                 </p>
                 <div class="contact">
                     <span><i class="fas fa-phone"></i> &nbsp; 123-456-789</span>

@@ -64,7 +64,7 @@ if ($post && is_array($post)) {
                     <?=$content;?>
                 </div>
                 <!-- ИНКЛЮДИМ HTML БЛОК С КОММЕНТАРИЯМИ  --->
-                <?php include("app/include/comments.php"); ?>
+
             </div>
 
         </div>
